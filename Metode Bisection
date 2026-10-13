@@ -39,4 +39,4 @@ def bisection(f, a, b, tol=1e-06, max_iter=10):
 a_awal = -5
 b_awal = -3
 
-bisection(f, a_awal, b_awal, tol=1e-06, max_iter=10)
+bisection(f, a_awal, b_awal, tol=1e-06, max_iter=25)
